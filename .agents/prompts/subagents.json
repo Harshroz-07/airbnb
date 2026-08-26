@@ -1,0 +1,21 @@
+{
+  "workflow": "AI-Assisted Pixel-Perfect Airbnb Clone Engineering",
+  "agents": [
+    {
+      "name": "Reference Inspector Agent",
+      "role": "Scraped DOM layout, CSS tokens, extracted 15 property photo paths, verified Listing Page, Photo Tour, and Lightbox requirements."
+    },
+    {
+      "name": "Design System Agent",
+      "role": "Configured Tailwind CSS tokens, typography standards, custom icons, and global styling."
+    },
+    {
+      "name": "Frontend Component Agent",
+      "role": "Implemented Listing Header, 5-photo Hero Grid, Sticky Reservation Widget, DatePicker Calendar, Photo Tour Overlay, and Keyboard-navigable Lightbox Modal."
+    },
+    {
+      "name": "Production Architecture Agent",
+      "role": "Authored high-level marketplace scaling strategy (Frontend CDN, BFF Microservices, Geospatial Search, CockroachDB, Kafka)."
+    }
+  ]
+}
